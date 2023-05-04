@@ -1,8 +1,6 @@
 # System-Castro-Products
- CRUD
-
-# Sistema-cadastro-produtos
  CRUD de cadastro de produtos com Angular
+ 
 ## Iniciando o projeto
 
 Node packages must be installed using the following command in the terminal. `npm install`.
